@@ -1,0 +1,22 @@
+*{
+    background-color: lightgray;
+}
+.todo_parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+h2{
+    background: pink; 
+}
+.todo-items{
+  
+    border: 5px solid gray;
+    padding: 3rem;
+    background: pink;
+    margin: 1rem;
+    width:200px;
+    height:200px;
+}
