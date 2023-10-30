@@ -6,7 +6,7 @@ The application fetches data from an API endpoint and dynamically loads more con
 Installation
 Clone the repository to your local machine.
 
-git clone [https://github.com/your-username/your-repository.git](https://github.com/Shobhitsky1144/INFINITE-SCROLLING-REACT.JS-TYPESCRIPT.git
+git clone https://github.com/Shobhitsky1144/INFINITE-SCROLLING-REACT.JS-TYPESCRIPT.git
 Navigate to the project directory.
 
 cd your-repository
