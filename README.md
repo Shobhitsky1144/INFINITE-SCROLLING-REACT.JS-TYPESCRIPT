@@ -51,4 +51,4 @@ Credits
 The React JavaScript library
 JSONPlaceholder for providing the API endpoint used in this project
 Contact
-For any questions or feedback, please reach out to me at your-shobhitsky1144@example.com. You can also visit my GitHub profile for more projects and information.
+For any questions or feedback, please reach out to me at shobhitsky1144@gmail.com. You can also visit my GitHub profile for more projects and information.
